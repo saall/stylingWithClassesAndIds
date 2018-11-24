@@ -4,3 +4,15 @@
   font-style: italic;
   font-size: 20px;
 }
+
+#bluee{
+  background-color: blue;
+  font-weight: bold;
+}
+
+#yellow{
+background-color: yellowgreen;
+font-family: fantasy;
+font-weight: bolder;
+
+}
